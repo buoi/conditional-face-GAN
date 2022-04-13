@@ -1,5 +1,6 @@
 # conditional-face-GAN
-Attribute conditional face generation with ACGAN in keras; GPU computation of FID and attribute metrics.
+Attribute conditional face generation with ACGAN in keras; GPU computation of FID and attribute metrics.  
+In depth description here: [project_report.pdf](project_report.pdf) file.
 
 `attribute_conditional_gan.ipynb`  
 is a self contained notebook for the training of models with different image resolution and number of attributes .
